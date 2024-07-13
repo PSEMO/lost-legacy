@@ -67,6 +67,12 @@ My specs: (**NOT requirements**)
 - Intel i7-8700k
 - 32 GB RAM
 
+Another specs that run 60fps: (**NOT requirements**)
+- RX 6600
+- Ryzen 5 3600
+- 16 GB RAM
+- NVME SSD
+
 Downloads: 127GB  
 Install: 208GB  
 **TOTAL: ~335GB**  
